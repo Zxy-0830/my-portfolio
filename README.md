@@ -3,7 +3,7 @@ this is my personal website for showing my skills and projects
 
 ##Features
 Contact sections:Includes links to email, GitHub
-About Me: Contains Two paragraphs describing myself
+About Me: Contains Three paragraphs describing myself
 
 ##Tech Stack
 HTML
